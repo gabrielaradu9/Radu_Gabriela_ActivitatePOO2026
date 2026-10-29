@@ -135,7 +135,7 @@ float calculeazaPretPerIngredient(Prajitura p)
 	return 0;
 }
 
-void main() 
+void main()
 {
 	Prajitura p;
 	p.afisare();
